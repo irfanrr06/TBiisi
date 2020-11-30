@@ -1,5 +1,5 @@
 var map;
-var server = "https://tourismbkt.herokuapp.com/tourism_bkt";
+var server = "https://tourismbkt.herokuapp.com/tourism_bkt/";
 var cekRadiusStatus = "off"; //RADIUS
 var circles = []; //RADIUS
 var rad; //RADIUS
