@@ -1,5 +1,5 @@
 var map;
-var server = "http://localhost/postgresql_12/tourism_bkt/";
+var server = "https://tourismbkt.herokuapp.com/";
 var cekRadiusStatus = "off"; //RADIUS
 var circles = []; //RADIUS
 var rad; //RADIUS
